@@ -30,7 +30,7 @@ class PyTest(TestCommand):
 
 setup(
     name="jsbeautifier",
-    version=__version__,
+    version="1.15.1",
     description="JavaScript unobfuscator and beautifier.",
     long_description=(
         "Beautify, unpack or deobfuscate JavaScript. "
